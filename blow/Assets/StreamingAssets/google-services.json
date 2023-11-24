@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258495492238",
+    "project_id": "blow-37004",
+    "storage_bucket": "blow-37004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258495492238:android:14696005a75dcaf03519df",
+        "android_client_info": {
+          "package_name": "com.VRGame.blow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNYDyuwC4b5IzlMzmfPGrNwIbWoMYmLhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
